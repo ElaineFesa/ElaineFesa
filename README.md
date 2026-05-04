@@ -118,6 +118,14 @@
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ElaineFesa/ElaineFesa/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ElaineFesa/ElaineFesa/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ElaineFesa/ElaineFesa/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
 <p align="right">
   <i>"A engenharia é onde a lógica encontra a criatividade."</i> ✨
 </p>
