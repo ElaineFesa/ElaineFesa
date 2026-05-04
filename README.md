@@ -7,18 +7,19 @@
 </p>
 
 <p align="center">
-  🚀 <b>Futura Engenheira de Computação</b>  
+  ✦ <b>Futura Engenheira de Computação</b>  
   <br>
   Construindo soluções inteligentes com <b>IA, IoT e Cloud</b>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=IA+aplicada+à+vida+real;Sistemas+IoT+conectados;Visão+Computacional+em+tempo+real;Cloud+%2B+Containers+%2B+Automação" />
+  <img src=<img width="1920" height="732" alt="image" src="https://github.com/user-attachments/assets/b52cc26f-3bf8-419d-8751-7622c7360c87" />
+ />
 </p>
 
 ---
 
-## 🧠 Sobre mim
+## ✦ Sobre mim
 
 🎓 Estudante de Engenharia da Computação  
 🔬 Foco em **integração de sistemas inteligentes**  
@@ -30,12 +31,12 @@
 - Sistemas embarcados e IoT
 - Arquitetura de software
 
-📐 Diferencial:
+✦ Diferencial:
 > Desenvolvimento com foco em **precisão técnica, análise matemática e aplicações reais**
 
 ---
 
-## ⚡ Stack Tecnológica
+## ✦ Stack Tecnológica
 
 <div align="center">
 
@@ -63,9 +64,9 @@
 
 ---
 
-## 🚀 Projetos em Destaque
+## ✦ Projetos em Destaque
 
-### 🤟 App de Aprendizado de Libras com IA
+### ✦ App de Aprendizado de Libras com IA
 > Sistema com reconhecimento de gestos em tempo real  
 ✔ MediaPipe + LSTM  
 ✔ Interface gráfica interativa  
@@ -73,7 +74,7 @@
 
 ---
 
-### 🌐 Ecossistema IoT com Data Logger
+### ✦ Ecossistema IoT com Data Logger
 > Monitoramento inteligente com arquitetura distribuída  
 ✔ ESP32 + MQTT  
 ✔ FIWARE em Docker  
@@ -81,7 +82,7 @@
 
 ---
 
-### 💡 Smart Lamp (Simulação)
+### ✦ Smart Lamp (Simulação)
 > Automação residencial com múltiplos modos de controle  
 ✔ Simulação no Wokwi  
 ✔ Integração com protocolos IoT  
@@ -89,7 +90,7 @@
 
 ---
 
-## 📊 Estatísticas
+## ✦ Estatísticas
 
 <div align="center">
 
@@ -100,12 +101,12 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElaineFesa&theme=rose_pine&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElaineFesa&theme=rose_pine&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
 
 ---
 
-## 🌐 Contato
+## ✦ Contato
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ela%C3%ADne-moreira/" target="blank">
@@ -125,6 +126,7 @@
 </picture>
 
 ---
+
 
 <p align="right">
   <i>"A engenharia é onde a lógica encontra a criatividade."</i> ✨
