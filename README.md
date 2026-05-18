@@ -40,7 +40,7 @@
 ### 💻 Linguagens & Cloud
 ![Python](https://img.shields.io/badge/Python-1A1A1A?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-1A1A1A?style=for-the-badge&logo=java)
-![C++](https://img.shields.io/badge/C++-1A1A1A?style=for-the-badge&logo=c%2B%2B)
+![C#](https://img.shields.io/badge/Csharp-1A1A1A?style=for-the-badge&logo=c%2B%2B)
 ![Docker](https://img.shields.io/badge/Docker-1A1A1A?style=for-the-badge&logo=docker)
 ![AWS](https://img.shields.io/badge/AWS-1A1A1A?style=for-the-badge&logo=amazon-aws)
 
